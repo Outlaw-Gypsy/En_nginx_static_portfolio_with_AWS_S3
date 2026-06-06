@@ -36,7 +36,7 @@ http://enhelix2026.s3-website.eu-north-1.amazonaws.com/indexx.html
 ![Homepage](screenshots/home.png)
 
 ### Projects Page Screenshot
-![Projectpage](screenshots/project.png)
+![Projectpage](screenshots/projects.png)
 
 ### Contact Page Screenshot
 ![contactpage](screenshots/contact.png)
@@ -236,7 +236,7 @@ The full homepage URL became:
 ```text
 http://enhelix2026.s3-website.eu-north-1.amazonaws.com/indexx.html
 ```
-![Homepage](screenshots/home.png)
+![Static webpage hosting](screenshots/static_web_hosting.png)
 
 ## Step 4: Disable Block Public Access
 
@@ -296,7 +296,7 @@ arn:aws:s3:::enhelix2026/*
 ```
 6. I clicked Save changes.
 
-###Result
+### Result
 
 The bucket policy was successfully added.
 
